@@ -9,12 +9,17 @@ You can study it to make one app!
 
 
 
+
 パッケージ一覧（package）
 
-・
-・
-・
-・
+  freezed:  
+  https://pub.dev/packages/freezed 
+  
+  flutter_state_notifier:  
+  https://pub.dev/packages/flutter_state_notifier
+  
+  build_runner:  
+https://pub.dev/packages/build_runner
 
 
 
