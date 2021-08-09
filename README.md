@@ -7,7 +7,8 @@ this repository is that you can wrote freezed.
 I am grad to understand how to use it.  
 You can study it to make one app!
 
-パッケージ一覧（package）
+
+## パッケージ一覧（package）
 
   freezed:  
   https://pub.dev/packages/freezed 
@@ -16,7 +17,15 @@ You can study it to make one app!
   https://pub.dev/packages/flutter_state_notifier
   
   build_runner:  
-https://pub.dev/packages/build_runner
+  https://pub.dev/packages/build_runner
+  
+  
+ ## Terminal
+ 
+ ```
+ flutter pub run build_runner build --delete-conflicting-outputs
+ ```
+
 
 
 
